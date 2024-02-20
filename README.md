@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently a student at Høyskolen Kristiania
+- 🔭 I’m currently a student at Kristiania University College
 - 🌱 I’m currently learning Python, TypeScript and C++
 - 📫 How to reach me: Discord: Chruudy
 
