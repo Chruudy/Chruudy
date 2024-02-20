@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Chruudy/Chruudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -8,7 +7,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a student at Høyskolen Kristiania
 - 🌱 I’m currently learning Python, TypeScript and C++
 - 📫 How to reach me: Discord: Chruudy
--->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-ruud-689792263) 
