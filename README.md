@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently a student at Kristiania University College
-- 🌱 I’m currently learning Python, TypeScript and C#
+- 🌱 I’m currently learning Swift for iOS programming and cross-platform development using the Ionic framework with Vue.
 - 📫 How to reach me: Discord: Chruudy
 
 
